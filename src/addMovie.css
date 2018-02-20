@@ -1,0 +1,10 @@
+.add-form{
+  padding-left: 0px;
+  text-align: center;
+  width: 80%;
+  border: 1px solid black;
+  list-style: none;
+}
+.add-form-item{
+  margin: 10px 0;
+}

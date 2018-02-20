@@ -1,0 +1,27 @@
+.movie{
+  width: 80%;
+  border: 1px solid black;
+}
+.movie-image{
+  width: 100%
+}
+.info{
+  display: flex;
+  border-top : 1px solid black;
+  justify-content: space-between;
+}
+.stars{
+  text-align: right;
+ }
+.movies-container{
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.movie-container{
+  margin-top: 20px;
+  width: 33%;
+}
+.image-container{
+  width: 100%
+}

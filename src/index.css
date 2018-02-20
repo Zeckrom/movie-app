@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.searchbar-container{
+  margin: auto;
+  display:flex;
+  width: 500px;
+  height: 50px;
+}
+
+.search-input{
+  width:100%;
+}
